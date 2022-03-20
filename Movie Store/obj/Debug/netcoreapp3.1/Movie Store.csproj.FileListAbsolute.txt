@@ -1,0 +1,13 @@
+/Users/eduardvalge/Desktop/github repos/Movie Store/Movie Store/bin/Debug/netcoreapp3.1/Movie Store.deps.json
+/Users/eduardvalge/Desktop/github repos/Movie Store/Movie Store/bin/Debug/netcoreapp3.1/Movie Store.runtimeconfig.json
+/Users/eduardvalge/Desktop/github repos/Movie Store/Movie Store/bin/Debug/netcoreapp3.1/Movie Store.runtimeconfig.dev.json
+/Users/eduardvalge/Desktop/github repos/Movie Store/Movie Store/bin/Debug/netcoreapp3.1/Movie Store.dll
+/Users/eduardvalge/Desktop/github repos/Movie Store/Movie Store/bin/Debug/netcoreapp3.1/Movie Store.pdb
+/Users/eduardvalge/Desktop/github repos/Movie Store/Movie Store/obj/Debug/netcoreapp3.1/Movie Store.csproj.AssemblyReference.cache
+/Users/eduardvalge/Desktop/github repos/Movie Store/Movie Store/obj/Debug/netcoreapp3.1/Movie Store.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardvalge/Desktop/github repos/Movie Store/Movie Store/obj/Debug/netcoreapp3.1/Movie Store.AssemblyInfoInputs.cache
+/Users/eduardvalge/Desktop/github repos/Movie Store/Movie Store/obj/Debug/netcoreapp3.1/Movie Store.AssemblyInfo.cs
+/Users/eduardvalge/Desktop/github repos/Movie Store/Movie Store/obj/Debug/netcoreapp3.1/Movie Store.csproj.CoreCompileInputs.cache
+/Users/eduardvalge/Desktop/github repos/Movie Store/Movie Store/obj/Debug/netcoreapp3.1/Movie Store.dll
+/Users/eduardvalge/Desktop/github repos/Movie Store/Movie Store/obj/Debug/netcoreapp3.1/Movie Store.pdb
+/Users/eduardvalge/Desktop/github repos/Movie Store/Movie Store/obj/Debug/netcoreapp3.1/Movie Store.genruntimeconfig.cache
